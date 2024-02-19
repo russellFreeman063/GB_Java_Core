@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Tic-Tac-Toe" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.geekbrains.core.homework2.Program" />
+    <module name="Homework2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
