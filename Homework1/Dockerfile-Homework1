@@ -1,0 +1,6 @@
+FROM openjdk:latest
+WORKDIR /usr/src/app
+COPY ./src/main/java .
+RUN javac -sourcepath . -d out ./ru/geekbrains/core/homework1/program/Program.java
+WORKDIR /usr/src/app/out
+ENTRYPOINT ["java","ru.geekbrains.core.homework1.program.Program"]

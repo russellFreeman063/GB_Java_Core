@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Calc-Homework1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ru.geekbrains.core.homework1.program.Program" />
+    <module name="Java_Core" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
